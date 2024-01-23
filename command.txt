@@ -1,0 +1,1 @@
+/usr/bin/java -jar ./bundletool-all-1.15.6.jar build-apks --bundle=./application-a608ade6-a522-4cc3-a767-c8f9a32ef38e.aab --output=./tech-tidq.apks --mode=universal
